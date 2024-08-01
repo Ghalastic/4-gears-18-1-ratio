@@ -1,1 +1,29 @@
-# 4-gears-18-1-ratio
+# 4 gears of 18/1 ratio
+#### 
+## Task Description:-
+####
+Draw and move 4 gears so that the total gear ratio becomes 18/1 (18 turns for every 1 turn)
+#### 
+### Gear Configuration:
+#### 
+(from the left)
+Gear 1: 10 teeth
+Gear 2: 60 teeth
+Gear 3: 10 teeth
+Gear 4: 30 teeth
+#### 
+### Gear Ratios Breakdown:
+#### 
+- Ratio For Stage 1 = Number of teeth for Gear 2 / Number of teeth for Gear 1 = 60/10 = 6/1 = 6:1
+- Ratio For Stage 2 = Number of teeth for Gear 4 / Number of teeth for Gear 3 = 30/10 = 3/1 = 3:1
+####
+- Total Gear Ratio:
+####
+In order to find the total gear ratio, multiply the individual stage ratios:
+Total Ratio = 6:1 x 3:1 = 18:1 (or) 6/1 x 3/1 = 18/1
+![‏‏لقطة الشاشة (2194)](https://github.com/user-attachments/assets/e274b219-c41c-4586-bf1a-09c9d8787fa2)
+#### 
+![‏‏لقطة الشاشة (2197)](https://github.com/user-attachments/assets/381111cb-2d7d-4e08-b182-60c90592e940)
+#### 
+[Vid](https://github.com/user-attachments/assets/d74bb4f4-f5a5-4065-b69a-dd7651589275)
+#### 
