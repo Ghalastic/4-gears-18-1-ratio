@@ -4,6 +4,9 @@
 ####
 Draw and move 4 gears so that the total gear ratio becomes 18/1 (18 turns for every 1 turn)
 #### 
+### Program:
+SOLIDWORKS
+####
 ### Gear Configuration:
 #### 
 (from the left)
