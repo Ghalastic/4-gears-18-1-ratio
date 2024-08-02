@@ -6,6 +6,9 @@ Draw and move 4 gears so that the total gear ratio becomes 18/1 (18 turns for ev
 #### 
 ### Program:
 SOLIDWORKS
+#### 
+### Duration:
+1 day
 ####
 ### Gear Configuration:
 #### 
@@ -24,9 +27,15 @@ Gear 4: 30 teeth
 ####
 In order to find the total gear ratio, multiply the individual stage ratios:
 Total Ratio = 6:1 x 3:1 = 18:1 (or) 6/1 x 3/1 = 18/1
+#### 
+### Image Illustrations:
 ![‏‏لقطة الشاشة (2194)](https://github.com/user-attachments/assets/e274b219-c41c-4586-bf1a-09c9d8787fa2)
 #### 
 ![‏‏لقطة الشاشة (2197)](https://github.com/user-attachments/assets/381111cb-2d7d-4e08-b182-60c90592e940)
+#### 
+### Video Illustration:
+#### 
+### This is what the 4 gears would look like if we were to animate them to achieve the desired total gear ratio:
 #### 
 [Vid](https://github.com/user-attachments/assets/d74bb4f4-f5a5-4065-b69a-dd7651589275)
 #### 
