@@ -25,7 +25,7 @@ Gear 4: 30 teeth
 ####
 - Total Gear Ratio:
 ####
-In order to find the total gear ratio, multiply the individual stage ratios:
+In order to find the total gear ratio, multiply the individual stage ratios:   
 Total Ratio = 6:1 x 3:1 = 18:1 (or) 6/1 x 3/1 = 18/1
 #### 
 ### Image Illustrations:
@@ -35,14 +35,14 @@ Total Ratio = 6:1 x 3:1 = 18:1 (or) 6/1 x 3/1 = 18/1
 #### 
 ### Video Illustration:
 #### 
-### This is what the 4 gears would look like if we were to animate them to achieve the desired total gear ratio:
+This is what the 4 gears would look like if we were to animate them to achieve the desired total gear ratio:
 #### 
 [Vid](https://github.com/user-attachments/assets/d74bb4f4-f5a5-4065-b69a-dd7651589275)
 #### 
 ### References:-
 #### 
-[Gear Generator How to Draw Perfect Gears (online, no download)](https://youtu.be/dBfvKPmGfwg?si=n_3UX9aDXumbPVnD)
-[Solidworks tutorials design assembly and animation of spur gears](https://youtu.be/oYvFka7EKlw?si=QzR9L4M0Hx5q5wZA)
-[Math Calculations & Conversions : Definition of Gearing Ratios](https://youtu.be/3LssCrLKeXU?si=muIx9sqCT0UcFhkD)
-[Gear and Wheels Part 1](https://youtu.be/D_i3PJIYtuY?si=Tl0f1mT198OG6Sud)
+[Gear Generator How to Draw Perfect Gears (online, no download)](https://youtu.be/dBfvKPmGfwg?si=n_3UX9aDXumbPVnD)  
+[Solidworks tutorials design assembly and animation of spur gears](https://youtu.be/oYvFka7EKlw?si=QzR9L4M0Hx5q5wZA)  
+[Math Calculations & Conversions : Definition of Gearing Ratios](https://youtu.be/3LssCrLKeXU?si=muIx9sqCT0UcFhkD)  
+[Gear and Wheels Part 1](https://youtu.be/D_i3PJIYtuY?si=Tl0f1mT198OG6Sud)  
 #### 
