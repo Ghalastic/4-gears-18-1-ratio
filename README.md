@@ -29,9 +29,9 @@ In order to find the total gear ratio, multiply the individual stage ratios:
 Total Ratio = 6:1 x 3:1 = 18:1 (or) 6/1 x 3/1 = 18/1
 #### 
 ### Image Illustrations:
-![‏‏لقطة الشاشة (2194)](https://github.com/user-attachments/assets/e274b219-c41c-4586-bf1a-09c9d8787fa2)
+![‏‏لقطة الشاشة (2193)](https://github.com/user-attachments/assets/67d40fed-4ebf-467a-b0dc-c00438c6f1af)
 #### 
-![‏‏لقطة الشاشة (2197)](https://github.com/user-attachments/assets/381111cb-2d7d-4e08-b182-60c90592e940)
+![‏‏لقطة الشاشة (2199)](https://github.com/user-attachments/assets/f6d0d109-25ec-442c-8ad8-8e920e174199)
 #### 
 ### Video Illustration:
 #### 
